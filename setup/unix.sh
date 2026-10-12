@@ -45,6 +45,8 @@ haxelib install colyseus-websocket 1.0.12 --quiet
 # ayrica 1.26.0 Haxe 4.3 ile "Recursive implicit cast" veriyor.
 haxelib install tink_core 2.1.1 --quiet
 
+haxelib install thx.semver --quiet
+
 echo Forcing correct library versions...
 
 # Force selected versions after dependency installs
