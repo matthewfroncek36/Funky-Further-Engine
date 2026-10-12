@@ -44,11 +44,11 @@ REM tink_core: haxelib 1.26.0 kuruyor ama tink_io 0.9.0 v2 bekliyor,
 REM ayrica 1.26.0 Haxe 4.3 ile "Recursive implicit cast" veriyor.
 haxelib install tink_core 2.1.1 --quiet
 
-haxelib install thx.semver 3.0.0 --quiet
+haxelib install thx.semver --quiet
 
-haxelib install tink_url 2.0.0 --quiet
-haxelib install tink_http 2.0.0 --quiet
-haxelib install tink_io 0.9.0 --quiet
+haxelib install tink_url --quiet
+haxelib install tink_http --quiet
+haxelib install tink_io --quiet
 
 echo Finished!
 pause
