@@ -14,7 +14,7 @@ permissions:
 
 env:
   PROJECT_NAME: FurtherEngine
-  REPO_PATH: SametGkTe/Funky-Further-Engine
+  REPO_PATH: matthewfroncek36/Funky-Further-Engine
 
 jobs:
   get-commit-hash:
