@@ -1,6 +1,12 @@
 name: Main
 
 on:
+  push:
+   branches:
+     - qt
+  pull_request:
+    branches:
+      - qt
   workflow_dispatch:
 
 jobs:
