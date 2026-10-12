@@ -51,6 +51,7 @@ haxelib install tink_url --quiet
 haxelib install tink_http --quiet
 haxelib install tink_io--quiet
 
+haxelib install jsonpatch --quiet
 
 echo Forcing correct library versions...
 
